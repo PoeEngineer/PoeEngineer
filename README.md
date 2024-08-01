@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PoeEngineer
+- 🌱 I’m currently learning C++ & Advanced File Programming
+- 💞️ I’m looking to collaborate on Music File Customization Software
+- ⚡ Fun fact: I am an Electrical Engineer
